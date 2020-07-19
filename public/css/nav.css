@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body{
+    max-width: 600px;
+    margin: 25vh auto;
+    background-color: #4e4e4e;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+#header{
+    background-color: #cecbcb;
+    width: 250px;
+    margin-left: 140px
+    ;padding: 3px 0;
+    border-radius: 15px;
+}
