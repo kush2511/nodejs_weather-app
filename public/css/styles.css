@@ -16,3 +16,12 @@ h1{
     color: rgb(56, 55, 55);
     letter-spacing: 1px;
  }
+ .jumbotron .print{
+    display: none;
+   margin-bottom: -50px;
+}
+@media (max-width: 600px) {
+   .jumbotron .print{
+   margin-bottom: -20px;
+   }
+}

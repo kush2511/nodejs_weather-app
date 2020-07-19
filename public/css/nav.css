@@ -9,7 +9,22 @@ body{
 #header{
     background-color: #cecbcb;
     width: 250px;
-    margin-left: 140px
-    ;padding: 3px 0;
+    margin-left: 140px;
+	padding: 3px 0;
+	margin-bottom: 14px;
     border-radius: 15px;
+}
+#title{
+	margin-top: -50px;
+	font-weight: 600
+}
+
+@media (max-width: 600px) {
+	#header{
+		margin-left: 70px;
+	}
+	#title{
+	margin-top: -25px;
+	font-weight: 600
+	}
 }
