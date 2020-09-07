@@ -1,5 +1,5 @@
 # nodejs_weather-app
-Made an weather application with nodeJs.
+Weather application made with popular JavaScript framework nodeJs.
 
-There is no <b>copyright</b> in this application but to use more features of api they have paid subscription.
+There is no <b>copyright</b> in this application but to use more features of <i>API</i> they have <b>paid subscription</b>.
 So you can use this application and modify according to your preference.
